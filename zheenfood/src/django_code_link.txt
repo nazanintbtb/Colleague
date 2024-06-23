@@ -1,0 +1,7 @@
+https://github.com/hmisonne/OnlineRestaurantWebApp
+
+https://github.com/pH-7/DeliciousThings2Home-API
+
+https://github.com/felipeozalmeida/pizzaria-ramos-api
+
+https://github.com/devnabeal/Food-delivery-app
