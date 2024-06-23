@@ -1,0 +1,15 @@
+/* Hide scrollbar */
+.tab-bar-container::-webkit-scrollbar {
+  display: none;
+}
+
+/* Style thumb */
+.tab-bar-container::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 10px;
+}
+
+/* Style track */
+.tab-bar-container::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
